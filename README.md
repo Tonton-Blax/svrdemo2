@@ -8,11 +8,14 @@
 - Select your repository and the main branch
 - Choose a custom build preset
 - Enter these settings for the custom build :
+
+
 | property          | value          |
 | ----------------- | -------------- |
 | `app_location`    | `./`           |
 | `api_location`    | `build/server` |
 | `output_location` | `build/static` |
+
 
 - Deploy
 
